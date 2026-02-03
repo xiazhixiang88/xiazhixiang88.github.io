@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xia Zhixiang"
-  avatar           : "images/证件照.jpg"
+  avatar           : "images/photo.jpg"
   bio              : "Southwestern University of Finance and Economics | M.S. student in Applied Statistics | Machine Learning & Medical Image AI Researcher"
   location         : "Chengdu, China"
   employer         :
