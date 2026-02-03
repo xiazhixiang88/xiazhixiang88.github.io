@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Zhixiang Xia"
+description              : "Machine Learning | Multiple Instance Learning | Computational Pathology"
 repository               : "XiaZhixiang/XiaZhixiang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xia Zhixiang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Southwestern University of Finance and Economics"
-  location         : "SiChuan, China"
+  bio              : "Southwestern University of Finance and Economics | M.S. student in Applied Statistics | Machine Learning & Medical Image AI Researcher"
+  location         : "Chengdu, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "xiazhixiang88@gmail.com"
+  email            : "xiazhixiang2022@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "github xiazhixiang88"
   google_plus      :
   keybase          :
   instagram        :
