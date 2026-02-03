@@ -35,7 +35,7 @@ I am currently working as a Multimodal Algorithm Intern at the **West China Hosp
 <div class='paper-box-text' markdown="1">
 
 **Histopathology Images-based Deep Learning Prediction of Prognosis in Primary Mucinous Ovarian Carcinoma** Zhang, M. Y.†, **Xia, Z. X.†**, Liu, R. Z., et al.  
-*Frontiers in Oncology, 2025 (Accepted, SCI Tier 2)*
+*Frontiers in Oncology, 2025 (Accepted, SCI Q2)*
 - Proposed a KDE-pooling Graph Deep Learning model for PMOC prognosis.
 - Achieved superior risk stratification compared to FIGO stage and tumor grade.
 - Provided interpretability via GNNExplainer for clinical decision support.
