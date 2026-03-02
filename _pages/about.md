@@ -35,10 +35,22 @@ I am currently working as a Multimodal Algorithm Intern at the **West China Hosp
 <div class='paper-box-text' markdown="1">
 
 **Histopathology Images-based Deep Learning Prediction of Prognosis in Primary Mucinous Ovarian Carcinoma** Zhang, M. Y.†, **Xia, Z. X.†**, Liu, R. Z., et al.  
-*Frontiers in Oncology, 2025 (Accepted, SCI Q2)*
+*Frontiers in Oncology, 2025 (Pubnished, SCI Q2)*
 - Proposed a KDE-pooling Graph Deep Learning model for PMOC prognosis.
 - Achieved superior risk stratification compared to FIGO stage and tumor grade.
 - Provided interpretability via GNNExplainer for clinical decision support.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Digital Medicine 2026</div><img src='images/npj MOCOPM.png' alt="MOCOPM" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Distinction Between Primary and Metastatic Mucinous Ovarian Carcinoma from Histopathology Images Using Deep Learning**  
+Zhang, M. Y., Liu, B., Qin, Z. J., Zhang, Y. D., Li, Z. Q., Liu, R. Z., **Xia, Z. X.**, et al.  
+*npj Digital Medicine, 2026 (Published, SCI Q1 Top)*
+- Developed a deep learning framework for histopathology image-based differential diagnosis.
+- Achieved high accuracy in distinguishing primary and metastatic mucinous ovarian carcinoma.
+- Published in top journal npj Digital Medicine (SCI Q1 Top).
 </div>
 </div>
 
