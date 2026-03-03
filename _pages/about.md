@@ -60,7 +60,7 @@ Zhang, M. Y., Liu, B., Qin, Z. J., Zhang, Y. D., Li, Z. Q., Liu, R. Z., **Xia, Z
 - **Cluster-Level Sparse Multi-Instance Learning for Whole-Slide Images**, Zhang, Y. D., **Xia, Z. X.**, Yin, G. S., and Liu, B. *Submitted to KDD 2026*.
 
 # 💻 Internships
- - *2025.11 - 2026.02*: **West China Hospital**, Clinical Pathology Institute. Multimodal Algorithm Intern.
+ - *2025.11 - 2026.03*: **West China Hospital**, Clinical Pathology Institute. Multimodal Algorithm Intern.
 - *2022.10 - 2023.04*: **Gusu District CDC (Suzhou)**. Data Analysis Intern.
 
 # 🎖 Honors and Awards
