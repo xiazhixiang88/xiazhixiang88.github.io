@@ -25,9 +25,10 @@ My research focuses on **Medical Image Analysis**, **Multi-Instance Learning (MI
 I am currently working as a Multimodal Algorithm Intern at the **West China Hospital**, focusing on multimodal fusion for breast cancer pCR prediction.
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉 Our paper on Mucinous Ovarian Carcinoma classification was accepted by **npj Digital Medicine**.
 - *2026.02*: &nbsp;🚀 Two papers on Multi-Instance Learning (HOMIL & csMIL) submitted to **KDD 2026**.
 - *2025.11*: &nbsp;🎓 Awarded **Outstanding Graduate of Sichuan Province**.
-- *2025.10*: &nbsp;🎉 Our paper on Ovarian Carcinoma prognosis was accepted by **Frontiers in Oncology**.
+- *2025.10*: &nbsp;🎉 Our paper on Mucinous Ovarian Carcinoma prognosis was accepted by **Frontiers in Oncology**.
 
 # 📝 Selected Publications 
 
